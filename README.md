@@ -5,7 +5,7 @@ RiOpen is a simple mod for Potion Craft which starts each new day with your shop
 Simply wake up in the morning and if you want to open up, go to the front of your shop and click on the calendar button above your inventory. Otherwise, no customers will spawn and you will be free to sleep again at any time. Once you open shop, you are unable to sleep until all customers are dismissed. Going to sleep without openning the shop will result in a small loss of popularity, but much less than you would get for manually dismissing each customer. This number will hopefully be tweaked based on feedback.
 
 
-
+a___
 
 
 
