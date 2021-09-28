@@ -11,7 +11,7 @@ Simply wake up in the morning and if you want to open up, go to the front of you
 
 
              
-I've decided to use the calendar button for convenience, and because once the official calendar is implemented into the game this mod will either be obsolete or need be heavily reworked to fit into it.
+I've decided to use the calendar button for convenience, and because once the official calendar is implemented into the game this mod will either be obsolete or need be heavily reworked to fit into it anyway.
 
 <h2>Requirement: Installing BepInEx 5</h2>
 
