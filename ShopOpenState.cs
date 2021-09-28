@@ -9,7 +9,7 @@ namespace RiOpen
     static class ShopOpenState
     {
         static bool isOpen = false;
-        const int penalty = 5;
+        const int penalty = -5;
 
        public static bool getOpen()
         {
